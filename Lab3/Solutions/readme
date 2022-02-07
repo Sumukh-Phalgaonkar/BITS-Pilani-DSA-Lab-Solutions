@@ -1,0 +1,4 @@
+All the functions perform the operations as specified in the lab sheet. However, certain return types have been modified (for ex queue* instead of queue) for best optimization of memory resources. Also in the labsheet for all the operations of queue ADT the data element in each node is said to be element. However I have used the data element as task so that MultiQ ADT can make use of queue ADT. 
+
+Assumption: Priority 1 is considered maximum priority while priority 10 is considered minimum priority.
+
